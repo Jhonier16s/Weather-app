@@ -72,13 +72,14 @@
   border: 2px rgb(165, 165, 165) solid;
   padding: 10px 10px;
   font-size: x-large;
-  color: white;
+  color: #000;
   font-weight: 600;
 }
 p{
   color: #fff;
   font-size: x-large;
   font-weight: 600;
+  transition: 0.8s;
 }
 h1{
   color: #000;
